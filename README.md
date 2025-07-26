@@ -24,7 +24,7 @@ ATM-System/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/91shiraz/.git
+   git clone https://github.com/91-shiraz/ATM-Using-Python-OOP.git
    cd atm-system
    ```
 
